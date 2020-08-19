@@ -1,0 +1,34 @@
+          				Online business Site
+
+1.Catagory: Web Application.
+
+2.Purpose: create a online business website
+
+3.Scope:Make online shopping easier and faster.
+
+4.Introduction:As we all know now the world has become online.
+ Everything can be done online. Even business. As a matter of fact online business has become much more efficient than offline business.
+ People like to do their shopping or any kind of marketing through online. That’s why we have come with this online business site.
+ 
+5.Functional Requirements: 
+		*User Authentication
+		*Account Settings
+                *specifivc section of shopping
+
+6.Non-Functional Requirements:
+		*User authentication via email,
+		*Prepare mini statement automatically
+
+7.Advantages:its a best oppurtunity for any start up company for branding their products and selling products
+
+8.Software Tools: *HTML
+                  *CSS
+                  *Java Script
+ 		
+9.Deployment: User need internet connection and Windows OS.
+
+10.Hardware Specification:  
+			Processor:Any kind desktop or laptop
+			RAM:2GB
+			Hard Disk:1TB
+
